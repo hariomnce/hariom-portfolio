@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "portfolio",
-  "homepage": "http://hariomnce.github.io/hariomportfolio",
+  "name": "hariom-portfolio",
+  "homepage": "http://hariomnce.github.io/hariom-portfolio",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
