@@ -17,7 +17,7 @@ const greeting = {
   subTitle: "Java Developer, Open Source Enthusiast 🔥,  Always learning.",
   resumeLink:
     "https://drive.google.com/drive/u/0/folders/1kmEZ2toV49pnYs0LON_GmUjRI3QWjaqO",
-  //resumeDownload: "./assests/images/Hariom Res E2.pdf",
+  // resumeDownload: "./assests/images/hariom_resumes.pdf",
   mail: "mailto:hariomnce@gmail.com",
 };
 
@@ -41,11 +41,11 @@ const skills = {
         "⚡ Creating application backend in Java, Springboot & Spring-Security",
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-       // "⚡ Developing mobile applications using Flutter and Android",
+        // "⚡ Developing mobile applications using Flutter and Android",
         "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
       ],
       softwareSkills: [
-      {
+        {
           skillName: "Java",
           fontAwesomeClassname: "simple-icons:java",
           style: {
@@ -318,7 +318,7 @@ const degrees = {
       alt_name: "SSGC",
       duration: "2015 - 2017",
       descriptions: [
-         "⚡ I have studied core subjects Physics, Chemistry, Mathematics, English, Hindi.",
+        "⚡ I have studied core subjects Physics, Chemistry, Mathematics, English, Hindi.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
@@ -331,7 +331,7 @@ const degrees = {
       alt_name: "SSGC",
       duration: "2011 - 2015",
       descriptions: [
-         "⚡ I have studied core subjects Physics, Chemistry, Mathematics, English, Hindi, etc.",
+        "⚡ I have studied core subjects Physics, Chemistry, Mathematics, English, Hindi, etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
@@ -435,33 +435,38 @@ const experience = {
       experiences: [
         {
           title: "Java Developer",
-          company: "NextGen Vision Technology",
-          company_url: "https://www.nextgenvisiontech.com/",
-          logo_path: "valora.jpeg",
-          duration: "Nov 2021 - Present",
-          location: "Noida, Uttar Pradesh",
-          description: `Working on Web Application and Admin Panel Backend. I have worked on Springboot Backend.`,
-           //Payment Gateway Integration and Microservice Architecture.
-          //`,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#0071C5",
-        },
-        {
-          title: "Trainee Software Engineer (Intern)",
-          company: "Hello Travel",
-          company_url: "https://www.hellotravel.com/",
-          logo_path: "hello.png",
-          duration: "Jan 2020 - Mar 2020",
-          location: "Noida, Uttar Pradesh",
-          description: `Train, manage and provide guidance to junior software development staff.
-          Work closely with the Project Manager and Team Leads on change request functions.
-          Develops new and maintains existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily Java Development. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
+          company: "AHOM Technologies",
+          company_url: "https://www.ahomtech.com/",
+          logo_path: "ahom.jpeg",
+          duration: "Sep 2022 - Present",
+          location: "Gurugram, Haryana",
+          description: `Implemented backend functionality using Springboot and Java, creating robust APIs to handle data retrieval, validation,
+          and manipulation.
+          Developed interactive using Springboot, ensuring seamless user experiences and efficientnavigation.
+          Designed and implemented MySql databases, ensuring efficient data storage and retrieval, and utilizing appropriateindexing
+          and querying techniques.
+          Integrated various third-party APIs and services to enhance application functionalities and provide seamless integration
+          with external systems.
+          Collaborated with cross-functional teams to design and develop scalable and maintainable solutions, ensuring effective
+          communication and timely delivery of projects.
           `,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
+        {
+          title: "Trainee Java Developer",
+          company: "NextGen Vision Technology",
+          company_url: "https://www.nextgenvisiontech.com/",
+          logo_path: "valora.jpeg",
+          duration: "Nov 2021 - Aug 2022",
+          location: "Noida, Uttar Pradesh",
+          description: `Working on Web Application and Admin Panel Backend. I have worked on Springboot Backend.`,
+          //Payment Gateway Integration and Microservice Architecture.
+          //`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#0071C5",
+        },
+
         // {
         //   title: "Full Stack Developer (Freelancer)",
         //   company: "NightOwls",
@@ -613,7 +618,7 @@ const projects = {
         },
         {
           name: "Springboot",
-          iconifyClass: "simple-icons:springboot", 
+          iconifyClass: "simple-icons:springboot",
         },
         {
           name: "Hibernate",
@@ -625,7 +630,7 @@ const projects = {
         },
         {
           name: "React Js",
-          iconifyClass: "logos-react"
+          iconifyClass: "logos-react",
         },
         {
           name: "Swagger",
@@ -636,9 +641,9 @@ const projects = {
     {
       id: "1",
       name: "Grocery Website",
-      url: "https://github.com/hariomnce/Grocery-Website/tree/master/Project%20Grocy",
-      description:
-        "Awesome Community website for Grocery website",
+      url:
+        "https://github.com/hariomnce/Grocery-Website/tree/master/Project%20Grocy",
+      description: "Awesome Community website for Grocery website",
       languages: [
         {
           name: "HTML5",
@@ -722,8 +727,7 @@ const projects = {
       id: "3",
       name: "Personal Portfolio",
       url: "https://github.com/hariomnce/myportfolio.github.io",
-      description:
-        "A simple portfolio interface to know more about me",
+      description: "A simple portfolio interface to know more about me",
       languages: [
         {
           name: "HTML5",
@@ -797,7 +801,7 @@ const projects = {
       languages: [
         {
           name: "React Js",
-          iconifyClass: "logos-react"
+          iconifyClass: "logos-react",
         },
         {
           name: "JavaScript",
@@ -983,7 +987,6 @@ const projects = {
     //     },
     //   ],
     // },
-
   ],
 };
 
