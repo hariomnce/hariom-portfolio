@@ -335,7 +335,7 @@ const degrees = {
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "https://www.facebook.com/cpspusa/",
+      website_link: "https://cpspusa.in/",
     },
   ],
 };
@@ -348,7 +348,7 @@ const certifications = {
       logo_path: "mongo.png",
       certificate_link:
         "https://drive.google.com/drive/folders/1tPwkA16-QkGMCWoBMR1AUu7T9r6QVoU2/",
-      alt_name: "MongoDB University",
+      alt_name: "IIT Kanpur",
       // color_code: "#2AAFED",
       color_code: "#47A048",
     },
@@ -367,7 +367,7 @@ const certifications = {
       logo_path: "bombay.png",
       certificate_link:
         "https://drive.google.com/drive/folders/1O6ASHq49pBcyl8ATbawovHJe70tatW1b",
-      alt_name: "MongoDB University",
+      alt_name: "IIT Bombay",
       // color_code: "#F6B808",
       color_code: "#47A048",
     },
